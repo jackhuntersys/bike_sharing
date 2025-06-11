@@ -1,7 +1,7 @@
 pandas
+numpy==2.2.6
 seaborn
 matplotlib
 scikit-learn
-pycaret
 ipykernel
 -e .
